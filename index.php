@@ -1,5 +1,5 @@
 <?php
-include 'db.php'; // الاتصال بقاعدة البيانات
+include 'db.php'; 
 
 $word = "";
 $meaning = "";
